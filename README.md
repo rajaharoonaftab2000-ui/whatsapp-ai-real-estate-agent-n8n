@@ -96,7 +96,7 @@ Before testing, connect your own credentials and configure the WhatsApp details,
 
 ## Demo Video
 
-[Watch the WhatsApp Real Estate Agent Demo](./WhatsApp_RealEstate_Agent_Demo_No_Voice_No_Song.mp4)
+[Watch the WhatsApp Real Estate Agent Demo](./WhatsApp_RealEstate_Agent_Demo.mp4)
 
 ## Project Status
 
